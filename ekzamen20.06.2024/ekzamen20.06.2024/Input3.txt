@@ -1,0 +1,5 @@
+Britain,Bjarne V.Straustrup,Britain,1980 3 0
+Bruce Eckel,0 2 23456
+France,Jule Vern,France,1982 1 0
+Russia,Ivanov Ivan Ivanovich,6 12345
+MrBrown,0 2 54321
